@@ -1,0 +1,31 @@
+POWER BI PROJECT SUMMARY
+
+Project Title: Business Data Analysis Dashboard (Power BI)
+
+Project Overview: This project focuses on designing and developing an
+interactive Power BI dashboard to analyze and visualize business data
+effectively. The objective of the project is to transform raw data into
+meaningful insights that support data-driven decision-making.
+
+Objectives: - Import and clean raw data using Power Query. - Build data
+models with relationships between tables. - Create calculated columns
+and DAX measures for KPIs. - Design interactive dashboards with filters
+and slicers. - Present insights in a clear and visually appealing
+format.
+
+Tools & Technologies Used: - Microsoft Power BI Desktop (.pbix) - Power
+Query Editor - DAX (Data Analysis Expressions) - Excel/CSV data sources
+
+Key Features: - Dynamic KPI cards (Revenue, Profit, Sales, Growth,
+etc.) - Interactive charts and graphs - Drill-down and drill-through
+functionality - Time-based analysis (Monthly/Yearly trends) -
+Category-wise and region-wise performance analysis
+
+Outcome: The dashboard enables users to monitor performance, track
+trends, and make informed business decisions. It improves reporting
+efficiency and provides real-time analytical insights.
+
+Conclusion: The Power BI project demonstrates strong skills in data
+modeling, visualization, and analytical thinking. It highlights the
+ability to convert raw datasets into actionable insights using modern
+business intelligence tools.
